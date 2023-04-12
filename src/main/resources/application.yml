@@ -1,0 +1,5 @@
+server:
+  port: 8100
+  error:
+    # e.g. when an 500 error is displayed will have the underlying error message
+    include-message: always
